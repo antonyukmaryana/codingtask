@@ -2,7 +2,10 @@
 
 
 ## DESCRIPTION
--  An app that presents a collection of news items loaded from the data feed below
+An app that presents a collection of news items loaded from the data feed.
+
+- For each news item, image, topic and headline are displayed
+- An interface that allows the user to filter the collection based on label
 
 ## LINKS
 -  https://s3.amazonaws.com/shrekendpoint/news.json (json data feed)
@@ -24,5 +27,5 @@
 
 **Requirements**
 
-To run this program, you have to have Android Studio or Terminal.
+To run this program, use Android Studio or Terminal.
 
